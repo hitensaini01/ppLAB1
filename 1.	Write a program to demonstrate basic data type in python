@@ -1,0 +1,19 @@
+#1
+
+integer_example = 10
+print("Integer Example:", integer_example, "| Type:", type(integer_example))
+
+
+float_example = 10.5
+print("Float Example:", float_example, "| Type:", type(float_example))
+
+
+string_example = "Hello, Python!"
+print("String Example:", string_example, "| Type:", type(string_example))
+
+
+boolean_example = True
+print("Boolean Example:", boolean_example, "| Type:", type(boolean_example))
+
+list_example = [1, 2, 3, 4, 5]
+print("List Example:", list_example, "| Type:", type(list_example)) 
